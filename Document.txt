@@ -1,0 +1,23 @@
+# Room-Rental & Property-Listing Website
+
+###### This Web application helps user to register individaul home or apartment to assist you in finding the perfect rental home or property.
+       Also you can find your next rental from search view in your targeted area.
+
+
+###### Built with Core PHP, PHP PDO, Bootstrap4, Jquery, MYSQL.
+
+
+###### Login Details :
+
+# admin login
+
+username - admin
+
+password- admin
+
+# New User :
+
+Register as new user 
+
+
+
