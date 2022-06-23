@@ -1,12 +1,11 @@
-# Room-Rental-Property-Listing
 <div align="center">
 
 <h1>Room Rental & Property Listing Website</h1>
-<img src="https://img.shields.io/badge/Python-3.7.3-brown" />
-<img src="https://img.shields.io/badge/OpenCV-4.5.0-red" />
-<img src="https://img.shields.io/badge/Framework-Streamlit-orange" />
+<img src="https://img.shields.io/badge/Front end-HTML,CSS,JavaScript-brown" />
+<img src="https://img.shields.io/badge/Data Base-MySQL-red" />
+<img src="https://img.shields.io/badge/Framework-Bootstrap-orange" />
 <img src="https://img.shields.io/badge/BackendAPI-PHP-yellow" />
-<img src="https://img.shields.io/badge/Deployment-Heroku-blue" />
+<img src="https://img.shields.io/badge/Deployment-Netlify-blue" />
 </div>
 
 ## About
@@ -14,14 +13,14 @@ This Web application helps user to register individaul home or apartment to assi
 
 ## Overview of Technology :
 
-Front end: HTML, CSS, JavaScript :
+Front end: HTML, CSS, JavaScript
 
 HTML: HTML is used to create and save web document. E.g. Notepad/Notepad++
 CSS : (Cascading Style Sheets) Create attractive Layout
 Bootstrap : responsive design mobile freindly site
 JavaScript: it is a programming language, commonly use with web browsers.
 
-Back end: PHP, MySQL :
+Back end: PHP, MySQL
 
 PHP: Hypertext Preprocessor (PHP) is a technology that allows software developers to create dynamically generated web pages, in HTML, XML, or other document types, as per client request. PHP is open source software.
 MySQL: MySql is a database, widely used for accessing querying, updating, and managing data in databases.
